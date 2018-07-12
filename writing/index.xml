@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Writing on Seth W. Musser</title>
+    <link>https://swmusser.github.io/writing/</link>
+    <description>Recent content in Scientific Writing on Seth W. Musser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://swmusser.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Particle Vortex Essay</title>
+      <link>https://swmusser.github.io/writing/particle-vortex-essay/</link>
+      <pubDate>Fri, 04 May 2018 09:59:44 -0400</pubDate>
+      
+      <guid>https://swmusser.github.io/writing/particle-vortex-essay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weyl&#39;s Law</title>
+      <link>https://swmusser.github.io/writing/weyl-law/</link>
+      <pubDate>Mon, 29 Aug 2016 10:22:15 -0400</pubDate>
+      
+      <guid>https://swmusser.github.io/writing/weyl-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poisson Geometry</title>
+      <link>https://swmusser.github.io/writing/poisson-geometry/</link>
+      <pubDate>Sat, 29 Aug 2015 11:02:49 -0400</pubDate>
+      
+      <guid>https://swmusser.github.io/writing/poisson-geometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Nonlinear Oscillations</title>
+      <link>https://swmusser.github.io/writing/weakly-nonlinear-oscillations/</link>
+      <pubDate>Fri, 29 Aug 2014 11:05:44 -0400</pubDate>
+      
+      <guid>https://swmusser.github.io/writing/weakly-nonlinear-oscillations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
