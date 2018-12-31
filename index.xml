@@ -81,9 +81,9 @@
       <guid>https://swmusser.github.io/post/physics-instruction/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In many of the physics courses I&amp;rsquo;ve taken in my undergraduate and graduate years &lt;em&gt;The Feynman Lectures on Physics&lt;/em&gt; have been presented as the gold standard when it comes to physics instruction. They certainly left their impact on me; Feynman&amp;rsquo;s discussion of thermodynamics as illustrated by the &lt;a href=&#34;https://en.wikipedia.org/wiki/Brownian_ratchet&#34; target=&#34;_blank&#34;&gt;Brownian ratchet&lt;/a&gt; is a fresh way to approach the subject and I find myself returning to it from time to time. As with this example, much of Feyman&amp;rsquo;s technique relied on rebuilding a subject&amp;rsquo;s instruction from the ground up, attempting to present every subject with maximum appeal to intuition. That approach worked well for him in part because he was a genius and in part because he &lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Feynman#Pedagogy&#34; target=&#34;_blank&#34;&gt;devoted a lot of time to preparing the lectures&lt;/a&gt;. This makes Feynman&amp;rsquo;s method of instruction nigh on impossible to replicate by your average physicist, though some do try with varying success.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A better model for your average physics instructor is, in my view, &lt;a href=&#34;http://www.damtp.cam.ac.uk/user/tong/teaching.html&#34; target=&#34;_blank&#34;&gt;David Tong&amp;rsquo;s lecture notes&lt;/a&gt;. I think his real success is not necessarily in rebuilding entire subjects, but rather in presenting them in a way that is easily digestible by a motivated student.&lt;/p&gt;
 
 &lt;p&gt;Key features:&lt;/p&gt;
 
@@ -105,61 +105,6 @@
 
 &lt;div class=&#34;gallery&#34;&gt;
   
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Ocean&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Dark&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;1950s&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
 
 &lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
 
