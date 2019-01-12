@@ -18,7 +18,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://swmusser.github.io/post/nifty_trick/</guid>
-      <description>Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions and imaginary numbers. I didn&amp;rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&amp;rsquo;s formula and realized that I had stumbled upon a way to &amp;ldquo;prove&amp;rdquo; this relation using integration techniques familiar to most students of calculus.</description>
+      <description>Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions, imaginary numbers, and the complex exponential. I didn&amp;rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&amp;rsquo;s formula and realized that I had stumbled upon a way to &amp;ldquo;prove&amp;rdquo; this relation using integration techniques familiar to most students of calculus.</description>
     </item>
     
   </channel>

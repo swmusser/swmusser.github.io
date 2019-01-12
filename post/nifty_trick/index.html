@@ -17,7 +17,7 @@
       
     
   
-  <meta name="description" content="Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions and imaginary numbers. I didn&rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&rsquo;s formula and realized that I had stumbled upon a way to &ldquo;prove&rdquo; this relation using integration techniques familiar to most students of calculus.">
+  <meta name="description" content="Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions, imaginary numbers, and the complex exponential. I didn&rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&rsquo;s formula and realized that I had stumbled upon a way to &ldquo;prove&rdquo; this relation using integration techniques familiar to most students of calculus.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://swmusser.github.io/post/nifty_trick/">
@@ -93,7 +93,7 @@
   <meta property="og:site_name" content="Seth W. Musser">
   <meta property="og:url" content="https://swmusser.github.io/post/nifty_trick/">
   <meta property="og:title" content=" &#39;Proving&#39; Euler&#39;s formula to calculus students | Seth W. Musser">
-  <meta property="og:description" content="Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions and imaginary numbers. I didn&rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&rsquo;s formula and realized that I had stumbled upon a way to &ldquo;prove&rdquo; this relation using integration techniques familiar to most students of calculus.">
+  <meta property="og:description" content="Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions, imaginary numbers, and the complex exponential. I didn&rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&rsquo;s formula and realized that I had stumbled upon a way to &ldquo;prove&rdquo; this relation using integration techniques familiar to most students of calculus.">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-01-11T00:00:00-05:00">
@@ -282,7 +282,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    2 min read
+    3 min read
   </span>
   
 
@@ -325,7 +325,7 @@
 
 
     <div class="article-style" itemprop="articleBody">
-      <p>Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions and imaginary numbers. I didn&rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&rsquo;s formula and realized that I had stumbled upon a way to &ldquo;prove&rdquo; this relation using integration techniques familiar to most students of calculus. (While researching the proof for this post I discovered that Johann Bernoulli <a href="https://en.wikipedia.org/wiki/Euler%27s_formula#History" target="_blank">nearly completed a similar &ldquo;proof&rdquo;</a> in the 18th century, so the idea was just a new one to me.) Afterwards I demonstrated the idea to my intro calc class at UChicgo, which some of them appreciated. I will reproduce the argument here, as I expect some will find it amusing and may want to show it to their own undergraduate students.</p>
+      <p>Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions, imaginary numbers, and the complex exponential. I didn&rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&rsquo;s formula and realized that I had stumbled upon a way to &ldquo;prove&rdquo; this relation using integration techniques familiar to most students of calculus. (While researching the proof for this post I discovered that Johann Bernoulli <a href="https://en.wikipedia.org/wiki/Euler%27s_formula#History" target="_blank">nearly completed a similar &ldquo;proof&rdquo;</a> in the 18th century, so the idea was just a new one to me.) Afterwards I demonstrated the idea to my intro calc class at UChicgo, which some of them appreciated. I will reproduce the argument here, as I expect some will find it amusing and may want to show it to their own undergraduate students.</p>
 
 <p>As any student of calculus will be familiar with
 $$\begin{eqnarray}
@@ -337,9 +337,21 @@ $$\begin{eqnarray}
 \tan^{-1}(x) &amp;=&amp; \int_0^{x} \frac{1}{1+y^2} \ \mathrm{d}y \\<br />
 &amp;=&amp; \frac{1}{2}\int_0^{x} \left[\frac{1}{1+iy} + \frac{1}{1-iy}\right] \ \mathrm{d}y \\<br />
 &amp;=&amp; \frac{i}{2}\left[\ln(1 - iy) - \ln(1 + iy) \right]_0^{x} \\<br />
-&amp;=&amp; \frac{i}{2}\ln\left(\frac{1-iy}{1+iy}\right).
+&amp;=&amp; \frac{i}{2}\ln\left(\frac{1-ix}{1+ix}\right).
 \end{eqnarray}$$
-Our reasoning has been slightly dubious here, namely we&rsquo;ve ignored the multi-valued nature of the complex logarithm. That&rsquo;s probably not a hugely important distinction for those just learning calculus, however, so we forge onward.</p>
+Our reasoning has been slightly dubious here, namely we&rsquo;ve ignored the multi-valued nature of the complex logarithm. That&rsquo;s probably not a hugely important distinction for those just learning calculus, however, so we forge onward. This is the relation that I originally derived while fooling around with partial fractions. Clearly it contains a connection between trigonometric functions, imaginary numbers, and the complex exponential (by way of the complex logarithm). However, in order to get to Euler&rsquo;s formula we&rsquo;ll need to do a bit of algebra.</p>
+
+<p>Let&rsquo;s define $ \theta \equiv \tan^{-1}(x) $, note that $ \theta \in (-\pi,\pi] $ just as we would want from an angle. Then using the relation we derived above, we see
+$$\begin{eqnarray}
+e^{i\theta} &amp;=&amp; \exp\left(-\frac{1}{2}\ln\left(\frac{1-ix}{1+ix}\right)\right) \\<br />
+&amp;=&amp; \sqrt{\frac{1+ix}{1-ix}} \\<br />
+&amp;=&amp; \sqrt{\frac{(1+ix)^2}{(1-ix)(1+ix)}} \\<br />
+&amp;=&amp; \frac{1+ix}{\sqrt{1+x^2}} \\<br />
+&amp;=&amp; \frac{1+i\tan(\theta)}{\sqrt{1+\tan^2(\theta)}} \ \text{ since } x=\tan(\theta) \\<br />
+&amp;=&amp; \cos(\theta)[1+i\tan(\theta)] \ \text{ since } 1+\tan^2(\theta) = \sec^2(\theta) \\<br />
+&amp;=&amp; \cos(\theta) + i \sin(\theta).
+\end{eqnarray}$$
+We have thus arrived at the Euler formula, though we played it fast and loose with our algebra here with regards to the complex square root and logarithm. This derivation is, in my opinion, a much more interesting one than comparing the power series of the two sides. It also provides a great payoff for students of calculus to prove, with techniques familiar to them, that $ i^i = \exp(i\pi/2)^i = e^{-\pi/2} $!</p>
 
     </div>
 
