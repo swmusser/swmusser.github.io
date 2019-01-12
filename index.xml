@@ -74,6 +74,23 @@
     </item>
     
     <item>
+      <title> &#39;Proving&#39; Euler&#39;s formula to calculus students</title>
+      <link>https://swmusser.github.io/post/nifty_trick/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://swmusser.github.io/post/nifty_trick/</guid>
+      <description>&lt;p&gt;Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions and imaginary numbers. I didn&amp;rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&amp;rsquo;s formula and realized that I had stumbled upon a way to &amp;ldquo;prove&amp;rdquo; this relation using integration techniques familiar to most students of calculus. (While researching the proof for this post I discovered that Johann Bernoulli &lt;a href=&#34;https://en.wikipedia.org/wiki/Euler%27s_formula#History&#34; target=&#34;_blank&#34;&gt;nearly completed a similar &amp;ldquo;proof&amp;rdquo;&lt;/a&gt; in the 18th century, so the idea was just a new one to me.) Afterwards I demonstrated the idea to my intro calc class at UChicgo, which some of them appreciated. I will reproduce the argument here, as I expect some will find it amusing and may want to show it to their own undergraduate students.&lt;/p&gt;
+
+&lt;p&gt;As any student of calculus will be familiar with
+$$\begin{eqnarray}
+\tan^{-1}(x) &amp;amp;=&amp;amp; \left[\tan^{-1}(y) \right]_0^{x} \\&lt;br /&gt;
+&amp;amp;=&amp;amp; \int_0^{x} \frac{1}{1+y^2} \ \mathrm{d}y \\&lt;br /&gt;
+&amp;amp;=&amp;amp;
+\end{eqnarray}$$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Physics and Mathematics Instruction</title>
       <link>https://swmusser.github.io/post/physics-instruction/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
