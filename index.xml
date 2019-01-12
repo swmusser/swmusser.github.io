@@ -84,9 +84,16 @@
 &lt;p&gt;As any student of calculus will be familiar with
 $$\begin{eqnarray}
 \tan^{-1}(x) &amp;amp;=&amp;amp; \left[\tan^{-1}(y) \right]_0^{x} \\&lt;br /&gt;
-&amp;amp;=&amp;amp; \int_0^{x} \frac{1}{1+y^2} \ \mathrm{d}y \\&lt;br /&gt;
-&amp;amp;=&amp;amp;
-\end{eqnarray}$$&lt;/p&gt;
+&amp;amp;=&amp;amp; \int_0^{x} \frac{1}{1+y^2} \ \mathrm{d}y.
+\end{eqnarray}$$
+If we now use the difference of squares to see that $ 1+y^2 = (1+iy)(1-iy) $, then we can split up the integrand into the sum of two fractions using the technique of partial fractions. So therefore:
+$$\begin{eqnarray}
+\tan^{-1}(x) &amp;amp;=&amp;amp; \int_0^{x} \frac{1}{1+y^2} \ \mathrm{d}y \\&lt;br /&gt;
+&amp;amp;=&amp;amp; \frac{1}{2}\int_0^{x} \left[\frac{1}{1+iy} + \frac{1}{1-iy}\right] \ \mathrm{d}y \\&lt;br /&gt;
+&amp;amp;=&amp;amp; \frac{i}{2}\left[\ln(1 - iy) - \ln(1 + iy) \right]_0^{x} \\&lt;br /&gt;
+&amp;amp;=&amp;amp; \frac{i}{2}\ln\left(\frac{1-iy}{1+iy}\right).
+\end{eqnarray}$$
+Our reasoning has been slightly dubious here, namely we&amp;rsquo;ve ignored the multi-valued nature of the complex logarithm. That&amp;rsquo;s probably not a hugely important distinction for those just learning calculus, however, so we forge onward.&lt;/p&gt;
 </description>
     </item>
     
