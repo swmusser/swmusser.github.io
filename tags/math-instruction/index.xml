@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://swmusser.github.io/tags/math-instruction/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title> &#39;Proving&#39; Euler&#39;s formula to calculus students</title>
       <link>https://swmusser.github.io/post/nifty_trick/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://swmusser.github.io/post/nifty_trick/</guid>
       <description>Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions and imaginary numbers. I didn&amp;rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&amp;rsquo;s formula and realized that I had stumbled upon a way to &amp;ldquo;prove&amp;rdquo; this relation using integration techniques familiar to most students of calculus.</description>
