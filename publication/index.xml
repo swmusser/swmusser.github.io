@@ -12,5 +12,14 @@
 	<atom:link href="https://swmusser.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Starting Flow Past an Airfoil and its Acquired Lift in a Superfluid</title>
+      <link>https://swmusser.github.io/publication/superfluid-flying/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://swmusser.github.io/publication/superfluid-flying/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
   </channel>
 </rss>
