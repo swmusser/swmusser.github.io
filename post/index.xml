@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Flying in a Superfluid</title>
+      <link>https://swmusser.github.io/post/superfluid-flight/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://swmusser.github.io/post/superfluid-flight/</guid>
+      <description>Test equation: $$ \frac{\partial \mathbf{u}}{\partial t}+(\mathbf{u} \cdot \nabla)\mathbf{u} = \nabla\left[-\frac{g}{m} \rho + \frac{1}{m} V+\frac{\hbar^2}{2m^2} \frac{\nabla^2 \sqrt{\rho}}{\sqrt{\rho}} \right] \, , \label{momentum} $$</description>
+    </item>
+    
+    <item>
       <title>Physics and Mathematics Instruction</title>
       <link>https://swmusser.github.io/post/physics-instruction/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 -0500</pubDate>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flight on Seth W. Musser</title>
+    <link>https://swmusser.github.io/tags/flight/</link>
+    <description>Recent content in Flight on Seth W. Musser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://swmusser.github.io/tags/flight/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flying in a Superfluid</title>
+      <link>https://swmusser.github.io/post/superfluid-flight/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://swmusser.github.io/post/superfluid-flight/</guid>
+      <description>Test equation: $$ \frac{\partial \mathbf{u}}{\partial t}+(\mathbf{u} \cdot \nabla)\mathbf{u} = \nabla\left[-\frac{g}{m} \rho + \frac{1}{m} V+\frac{\hbar^2}{2m^2} \frac{\nabla^2 \sqrt{\rho}}{\sqrt{\rho}} \right] \, , \label{momentum} $$</description>
+    </item>
+    
+  </channel>
+</rss>
