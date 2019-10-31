@@ -25,13 +25,7 @@
       <pubDate>Wed, 30 Oct 2019 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/post/superfluid-flight/</guid>
-      <description>&lt;p&gt;Test equation:
-$$
-\frac{\partial \mathbf{u}}{\partial t}+(\mathbf{u} \cdot \nabla)\mathbf{u} = \nabla\left[-\frac{g}{m} \rho +
-\frac{1}{m} V+\frac{\hbar^2}{2m^2}
-\frac{\nabla^2 \sqrt{\rho}}{\sqrt{\rho}} \right] \, ,
-\label{momentum}
-$$&lt;/p&gt;
+      <description>&lt;p&gt;Physical Review Letters recently published research I did as an undergraduate in the Irvine lab, &lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.154502&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Starting Flow Past an Airfoil and its Acquired Lift in a Superfluid&lt;/em&gt;&lt;/a&gt;. I wanted to write a blog post about it, and since flying in a superfluid strikes me as something that might be interesting to the broader physics community I checked &lt;a href=&#34;https://physics.stackexchange.com&#34; target=&#34;_blank&#34;&gt;physics.stackexchange.com&lt;/a&gt;. To my pleasant surprise I was able to find &lt;a href=&#34;https://physics.stackexchange.com/questions/111659/would-an-airplane-flying-through-superfluid-helium-experience-lift-and-drag/126286&#34; target=&#34;_blank&#34;&gt;not one&lt;/a&gt;, &lt;a href=&#34;https://physics.stackexchange.com/questions/46131/does-a-wing-in-a-potential-flow-have-lift&#34; target=&#34;_blank&#34;&gt;but two&lt;/a&gt; questions related to flight in a superfluid. Unfortunately, the top voted answers on these questions assert: &amp;ldquo;viscosity is necessary in order for the wing to generate lift&amp;rdquo; and &amp;ldquo;lift cannot exist without viscosity&amp;rdquo;, respectively. Our paper linked above directly shows that this is in fact not true. Indeed, this misconception provides a great starting point to understanding flight in a superfluid.&lt;/p&gt;
 </description>
     </item>
     
