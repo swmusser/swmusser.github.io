@@ -31,9 +31,9 @@
 
 &lt;p&gt;&lt;img src=&#34;https://swmusser.github.io/img/superfluid-flying/streamlines_nocirc.jpg&#34; alt=&#34;streamlines&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The ambiguity around circulation is a pretty important ambiguity though! The &lt;a href=&#34;https://en.wikipedia.org/wiki/Kutta%E2%80%93Joukowski_theorem&#34; target=&#34;_blank&#34;&gt;Kutta-Joukowski theorem&lt;/a&gt; shows that the lift around any airfoil in a two dimensional flow is proportional to the circulation around it. No circulation, no flight. The foil shown above would never get off the ground.&lt;/p&gt;
+&lt;p&gt;The ambiguity around circulation is a pretty important ambiguity though! The &lt;a href=&#34;https://en.wikipedia.org/wiki/Kutta%E2%80%93Joukowski_theorem&#34; target=&#34;_blank&#34;&gt;Kutta-Joukowski theorem&lt;/a&gt; shows that the lift around any airfoil in a two dimensional flow is proportional to the circulation around it. No circulation, no flight. The foil above would never get off the ground. Given that we know real wings do in fact fly, how do they choose a value of circulation that allows them to do so? In &lt;em&gt;Elementary Fluid Dynamics&lt;/em&gt; Acheson points out that for all circulations but one, called the &lt;a href=&#34;https://en.wikipedia.org/wiki/Kutta_condition&#34; target=&#34;_blank&#34;&gt;Kutta-Joukowski circulation&lt;/a&gt;, the fluid velocity is infinite at the tail of the foil. This suggests that the foil chooses the perfect circulation to avoid this unphysical divergence. However, the real story is a little more complicated.&lt;/p&gt;
 
-&lt;p&gt;Given that we know real wings do in fact fly, how do they choose a value of circulation that allows them to do so? The commenters at physics stackexchange correctly point out that one way real foils do this is viscosity.&lt;/p&gt;
+&lt;p&gt;As the commenters at physics stackexchange point out, real foils take advantage of non-zero viscosity to choose the perfect circulation.&lt;/p&gt;
 </description>
     </item>
     
