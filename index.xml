@@ -49,7 +49,9 @@
 
 &lt;p&gt;Other researchers have shown that in the most well studied model of a superfluid, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Gross%E2%80%93Pitaevskii_equation&#34; target=&#34;_blank&#34;&gt;Gross-Pitaevskii equation&lt;/a&gt;, odd behavior occurs where compressibility effects dominate. In regimes where this occurs the local speed of the fluid exceeds the local speed of sound there. In a fluid like air, this would result in a shock that would dissipate energy.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://swmusser.github.io/img/superfluid-flying/shock_wave.mp4&#34; alt=&#34;shockwave&#34; /&gt;&lt;/p&gt;
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://swmusser.github.io/img/superfluid-flying/shock_wave.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 </description>
     </item>
     
