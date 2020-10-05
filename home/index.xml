@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://swmusser.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://swmusser.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/home/about/</guid>
       <description>Summary My goal as a physicist is to develop a clearer understanding of quantum phases of matter and their transitions. I&amp;rsquo;m especially passionate about using inspiration from classical physics to probe quantum phenomena. This has often led me to interesting numerical work. For example, my curiosity about superfluid vortices, as described by Scheeler et al., led to my work with the Irvine lab at UChicago. While there I built from scratch a GPU-enhanced simulation of a superfluid to study vortex nucleation from an airfoil and used analogies to the classical therory of airfoil flight to better understand flight in a superfluid.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Publications</title>
       <link>https://swmusser.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/home/publications/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://swmusser.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/home/talks/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Recent Posts</title>
       <link>https://swmusser.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/home/posts/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Scientific Writing</title>
       <link>https://swmusser.github.io/home/writing/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/home/writing/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Contact</title>
       <link>https://swmusser.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/home/contact/</guid>
       <description></description>

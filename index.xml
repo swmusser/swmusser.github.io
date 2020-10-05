@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Selected Publications</title>
       <link>https://swmusser.github.io/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/publications_selected/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Flying in a Superfluid</title>
       <link>https://swmusser.github.io/post/superfluid-flight/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/post/superfluid-flight/</guid>
       <description>&lt;p&gt;Physical Review Letters recently published research I did as an undergraduate in the Irvine lab, &lt;a href=&#34;https://swmusser.com/publication/superfluid-flying/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Starting Flow Past an Airfoil and its Acquired Lift in a Superfluid&lt;/em&gt;&lt;/a&gt;. I wanted to write a blog post about it, and since flying in a superfluid strikes me as something that might be interesting to the broader physics community, I checked &lt;a href=&#34;https://physics.stackexchange.com&#34; target=&#34;_blank&#34;&gt;physics.stackexchange.com&lt;/a&gt;. To my pleasant surprise I was able to find &lt;a href=&#34;https://physics.stackexchange.com/questions/111659/would-an-airplane-flying-through-superfluid-helium-experience-lift-and-drag/126286&#34; target=&#34;_blank&#34;&gt;not one&lt;/a&gt;, &lt;a href=&#34;https://physics.stackexchange.com/questions/46131/does-a-wing-in-a-potential-flow-have-lift&#34; target=&#34;_blank&#34;&gt;but two&lt;/a&gt; questions related to flight in a superfluid. Unfortunately, the top voted answers on these questions assert: &amp;ldquo;viscosity is necessary in order for the wing to generate lift&amp;rdquo; and &amp;ldquo;lift cannot exist without viscosity&amp;rdquo;, respectively. Our paper linked above directly contradicts these statements by showing that generating lift is possible in superfluids, despite their famous lack of viscosity. Indeed, this misconception provides a great starting point to understanding flight in general, and flight in a superfluid specifically.&lt;/p&gt;
@@ -60,7 +60,7 @@
     <item>
       <title>Starting Flow Past an Airfoil and its Acquired Lift in a Superfluid</title>
       <link>https://swmusser.github.io/publication/superfluid-flying/</link>
-      <pubDate>Sat, 12 Oct 2019 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/publication/superfluid-flying/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Physics and Mathematics Instruction</title>
       <link>https://swmusser.github.io/post/physics-instruction/</link>
-      <pubDate>Sat, 12 Jan 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://swmusser.github.io/post/physics-instruction/</guid>
       <description>&lt;p&gt;In many of the physics courses I&amp;rsquo;ve taken in my undergraduate and graduate years &lt;em&gt;The Feynman Lectures on Physics&lt;/em&gt; have been presented as the gold standard when it comes to physics instruction. They certainly left their impact on me; Feynman&amp;rsquo;s discussion of thermodynamics as illustrated by the &lt;a href=&#34;https://en.wikipedia.org/wiki/Brownian_ratchet&#34; target=&#34;_blank&#34;&gt;Brownian ratchet&lt;/a&gt; is a fresh way to approach the subject and I find myself returning to it from time to time. As with this example, much of Feyman&amp;rsquo;s technique relied on rebuilding a subject&amp;rsquo;s instruction from the ground up, attempting to present every subject with maximum appeal to intuition. That approach worked well for him in part because he was a genius and in part because he &lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Feynman#Pedagogy&#34; target=&#34;_blank&#34;&gt;devoted a lot of time to preparing the lectures&lt;/a&gt;. This makes Feynman&amp;rsquo;s method of instruction nigh on impossible to replicate by your average physicist, though some do try with varying success.&lt;/p&gt;
@@ -104,7 +104,7 @@
     <item>
       <title> &#39;Proving&#39; Euler&#39;s formula to calculus students</title>
       <link>https://swmusser.github.io/post/nifty_trick/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://swmusser.github.io/post/nifty_trick/</guid>
       <description>&lt;p&gt;Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions, imaginary numbers, and the complex exponential. I didn&amp;rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&amp;rsquo;s formula and realized that I had stumbled upon a way to &amp;ldquo;prove&amp;rdquo; this relation using integration techniques familiar to most students of calculus. (While researching the proof for this post I discovered that Johann Bernoulli &lt;a href=&#34;https://en.wikipedia.org/wiki/Euler%27s_formula#History&#34; target=&#34;_blank&#34;&gt;nearly completed a similar &amp;ldquo;proof&amp;rdquo;&lt;/a&gt; in the 18th century, so the idea was just a new one to me.) Afterwards I demonstrated the idea to my intro calc class at UChicgo, which some of them appreciated. I will reproduce the argument here, as I expect some will find it amusing and may want to show it to their own undergraduate students.&lt;/p&gt;

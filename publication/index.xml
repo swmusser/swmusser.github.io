@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://swmusser.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Starting Flow Past an Airfoil and its Acquired Lift in a Superfluid</title>
       <link>https://swmusser.github.io/publication/superfluid-flying/</link>
-      <pubDate>Sat, 12 Oct 2019 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/publication/superfluid-flying/</guid>
       <description></description>

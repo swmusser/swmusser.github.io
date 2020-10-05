@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://swmusser.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Flying in a Superfluid</title>
       <link>https://swmusser.github.io/post/superfluid-flight/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 -0400</pubDate>
       
       <guid>https://swmusser.github.io/post/superfluid-flight/</guid>
       <description>Physical Review Letters recently published research I did as an undergraduate in the Irvine lab, Starting Flow Past an Airfoil and its Acquired Lift in a Superfluid. I wanted to write a blog post about it, and since flying in a superfluid strikes me as something that might be interesting to the broader physics community, I checked physics.stackexchange.com. To my pleasant surprise I was able to find not one, but two questions related to flight in a superfluid.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Physics and Mathematics Instruction</title>
       <link>https://swmusser.github.io/post/physics-instruction/</link>
-      <pubDate>Sat, 12 Jan 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://swmusser.github.io/post/physics-instruction/</guid>
       <description>In many of the physics courses I&amp;rsquo;ve taken in my undergraduate and graduate years The Feynman Lectures on Physics have been presented as the gold standard when it comes to physics instruction. They certainly left their impact on me; Feynman&amp;rsquo;s discussion of thermodynamics as illustrated by the Brownian ratchet is a fresh way to approach the subject and I find myself returning to it from time to time. As with this example, much of Feyman&amp;rsquo;s technique relied on rebuilding a subject&amp;rsquo;s instruction from the ground up, attempting to present every subject with maximum appeal to intuition.</description>
@@ -33,7 +33,7 @@
     <item>
       <title> &#39;Proving&#39; Euler&#39;s formula to calculus students</title>
       <link>https://swmusser.github.io/post/nifty_trick/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://swmusser.github.io/post/nifty_trick/</guid>
       <description>Back in high school when I took AP Calc BC I encountered integration using partial fractions. Later, while fooling around with the idea I realized I could use it to connect trigonometric functions, imaginary numbers, and the complex exponential. I didn&amp;rsquo;t think much of it at the time, but shortly thereafter I learned of Euler&amp;rsquo;s formula and realized that I had stumbled upon a way to &amp;ldquo;prove&amp;rdquo; this relation using integration techniques familiar to most students of calculus.</description>
