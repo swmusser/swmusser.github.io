@@ -20,6 +20,20 @@
     </item>
     
     <item>
+      <title>Deconfined Quantum Criticality</title>
+      <link>https://swmusser.github.io/jc101/dqc/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://swmusser.github.io/jc101/dqc/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/SuTPq_YAH_8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Quantum Spin Liquids: Disorder and Frustration</title>
       <link>https://swmusser.github.io/jc101/qsls1/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 -0400</pubDate>
@@ -226,15 +240,6 @@ We have thus arrived at the Euler formula, though we played it fast and loose wi
       <pubDate>Fri, 04 May 2018 09:59:44 -0400</pubDate>
       
       <guid>https://swmusser.github.io/writing/particle-vortex-essay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weyl&#39;s Law</title>
-      <link>https://swmusser.github.io/writing/weyl-law/</link>
-      <pubDate>Mon, 29 Aug 2016 10:22:15 -0400</pubDate>
-      
-      <guid>https://swmusser.github.io/writing/weyl-law/</guid>
       <description></description>
     </item>
     
